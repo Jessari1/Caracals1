@@ -1,0 +1,36 @@
+body {
+  background-color: white;
+}
+
+.navlink {
+  list-style:none;
+  text-decoration:none;
+  font-family:arial;
+  font-size:40px;
+  text-align:center;
+  color: black;
+  padding:40px;
+  display:inline;
+}
+
+.navlink li {
+  display:inline;
+}
+
+section {
+  clear:both;
+}
+
+section ul p {
+  text-decoration:none;
+  font-family:arial;
+  font-size:32px;
+}
+
+section ul {
+  text-decoration:none;
+  font-family:arial;
+  font-size:32px;
+  text-align:center;
+  list-style-type:none;
+}
